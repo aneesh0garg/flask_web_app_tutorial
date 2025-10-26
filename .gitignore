@@ -8,3 +8,6 @@ instance/
 .DS_Store
 .idea/
 .vscode/
+website/__pycache__/
+website/instance/
+website/*.sqlite3
